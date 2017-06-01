@@ -12,6 +12,7 @@
     "unique",
     "id"
   ],
+  "repository": "revelrylabs/react-uniqueid",
   "author": "Revelry Labs, LLC",
   "license": "MIT",
   "dependencies": {
