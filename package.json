@@ -14,6 +14,13 @@
   ],
   "author": "Revelry Labs, LLC",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/revelrylabs/react-uniqueid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/revelrylabs/react-uniqueid/issues"
+  },
   "dependencies": {
     "react": "^15.3.2",
     "source-map-support": "^0.4.3"
