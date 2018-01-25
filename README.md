@@ -64,7 +64,7 @@ class RadioItemWithoutAutoID extends Component {
 // Now we can render it anywhere without having to keep track of what other IDs exist.
 // The `connect` API is very much like the one in `react-redux` if you are familiar with that.
 const RadioItem = connect(
-  (getId) => {id: getId()}
+  (getId) => ({id: getId()})
 )(RadioItemWithoutAutoID)
 
 // PUT IT ALL TOGETHER.
