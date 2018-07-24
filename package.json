@@ -1,6 +1,6 @@
 {
   "name": "react-uniqueid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provider component and connect function for generating unique identifiers",
   "main": "index.js",
   "scripts": {
@@ -32,8 +32,9 @@
     "babel-preset-stage-0": "^6.16.0",
     "chai": "^3.5.0",
     "enzyme": "^2.4.1",
-    "jsdom-global": "^2.1.0",
-    "mocha": "^3.1.0",
+    "jsdom": "11.11.0",
+    "jsdom-global": "^3.0.2",
+    "mocha": "^5.2.0",
     "react-addons-test-utils": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-redux": "^4.4.5",
