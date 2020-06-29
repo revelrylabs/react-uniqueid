@@ -114,20 +114,20 @@ class StatesFormPage extends Component {
 ```
 ## Contributing and Development
 
-See [CONTRIBUTING.md](https://github.com/revelrylabs/harmonium/blob/master/CONTRIBUTING.md)
-for guidance on how to develop harmonium.
+See [CONTRIBUTING.md](https://github.com/revelrylabs/react-uniqueid/blob/master/CONTRIBUTING.md)
+for guidance on how to develop react-uniqueid.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/revelrylabs/harmonium. Check out [CONTRIBUTING.md](https://github.com/revelrylabs/harmonium/blob/master/CONTRIBUTING.md) for more info.
+Bug reports and pull requests are welcome on GitHub at https://github.com/revelrylabs/react-uniqueid. Check out [CONTRIBUTING.md](https://github.com/revelrylabs/react-uniqueid/blob/master/CONTRIBUTING.md) for more info.
 
 Everyone is welcome to participate in the project. We expect contributors to
-adhere to the Contributor Covenant Code of Conduct (see [CODE_OF_CONDUCT.md](https://github.com/revelrylabs/harmonium/blob/master/CODE_OF_CONDUCT.md)).
+adhere to the Contributor Covenant Code of Conduct (see [CODE_OF_CONDUCT.md](https://github.com/revelrylabs/react-uniqueid/blob/master/CODE_OF_CONDUCT.md)).
 
-[npm-badge]: https://img.shields.io/npm/v/harmonium.svg
-[npm-url]: https://www.npmjs.com/package/harmonium
-[travis-badge]: https://img.shields.io/travis/revelrylabs/harmonium.svg
-[travis-url]: https://travis-ci.org/revelrylabs/harmonium
+[npm-badge]: https://img.shields.io/npm/v/react-uniqueid.svg
+[npm-url]: https://www.npmjs.com/package/react-uniqueid
+[travis-badge]: https://img.shields.io/travis/revelrylabs/react-uniqueid.svg
+[travis-url]: https://travis-ci.org/revelrylabs/react-uniqueid
 
 ## License
 
-See [LICENSE](https://github.com/revelrylabs/harmonium/blob/master/LICENSE) for details.
+See [LICENSE](https://github.com/revelrylabs/react-uniqueid/blob/master/LICENSE) for details.
 
