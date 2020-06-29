@@ -1,6 +1,19 @@
-# react-uniqueid
+# React-uniqueid
+[![NPM Version][npm-badge]][npm-url]
+[![Travis Build Status][travis-badge]][travis-url]
+[![Dependency Status](https://dependencyci.com/github/revelrylabs/react-uniqueid/badge)](https://dependencyci.com/github/revelrylabs/react-uniqueid)
+[![Coverage Status](https://opencov.prod.revelry.net/projects/8/badge.svg)](https://opencov.prod.revelry.net/projects/8)
 
-Provider component and connect function for generating unique identifiers in React.
+React-uniqueid is a provider component and connect function for generating unique identifiers in React.
+React-uniqueid was built by [Revelry](https://revelry.co). We've been doing React since the earliest version was in beta. We've built dozens of React apps and we've learned what works and what doesn't. And our focus is on shipping gold fast. So we never want to solve the same problem twice.
+
+## Installation
+
+To install the toolkit for use in your project:
+
+```sh
+npm install --save react-uniqueid
+```
 
 ## Rationale
 
@@ -112,3 +125,21 @@ class StatesFormPage extends Component {
   }
 }
 ```
+## Contributing and Development
+
+See [CONTRIBUTING.md](https://github.com/revelrylabs/react-uniqueid/blob/master/CONTRIBUTING.md)
+for guidance on how to develop react-uniqueid.
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/revelrylabs/react-uniqueid. Check out [CONTRIBUTING.md](https://github.com/revelrylabs/react-uniqueid/blob/master/CONTRIBUTING.md) for more info.
+
+Everyone is welcome to participate in the project. We expect contributors to
+adhere to the Contributor Covenant Code of Conduct (see [CODE_OF_CONDUCT.md](https://github.com/revelrylabs/react-uniqueid/blob/master/CODE_OF_CONDUCT.md)).
+
+[npm-badge]: https://img.shields.io/npm/v/react-uniqueid.svg
+[npm-url]: https://www.npmjs.com/package/react-uniqueid
+[travis-badge]: https://img.shields.io/travis/revelrylabs/react-uniqueid.svg
+[travis-url]: https://travis-ci.org/revelrylabs/react-uniqueid
+
+## License
+
+See [LICENSE](https://github.com/revelrylabs/react-uniqueid/blob/master/LICENSE) for details.
